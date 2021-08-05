@@ -1,2 +1,2 @@
 # myfirstwork
-it's my first work
+This is my first project, after which I will move on to higher addresses.
